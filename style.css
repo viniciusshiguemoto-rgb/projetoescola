@@ -49,8 +49,10 @@ text-align: center;
 .estudante-nome{
 text-align: center;
 }
-.estudante-imagem{
-width: 240px;
+.estudante-imagem {
+    width: 280px; /* Aumente esse valor como preferir */
+    height: 200px; /* Define uma altura padrão para alinhar todas */
+    object-fit: cover; /* Garante que a imagem preencha o espaço sem esticar torto */
 }
 .estudante-icone{
 width: 38px;
