@@ -50,7 +50,7 @@ text-align: center;
 text-align: center;
 }
 .estudante-imagem {
-    width: 280px; /* Aumente esse valor como preferir */
+    width: 250px; /* Aumente esse valor como preferir */
     height: 200px; /* Define uma altura padrão para alinhar todas */
     object-fit: cover; /* Garante que a imagem preencha o espaço sem esticar torto */
 }
