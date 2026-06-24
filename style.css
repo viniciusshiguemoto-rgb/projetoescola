@@ -58,8 +58,8 @@ text-align: center;
 text-align: center;
 }
 .estudante-imagem {
-    width: 250px;
-    height: 200px;
+    width: auto;
+    height: auto;
     object-fit: cover;
 }
 .estudante-icone{
