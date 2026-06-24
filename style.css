@@ -34,7 +34,7 @@ font: 30px;
 .sociais{
 display: flex;
 justify-content: flex-end;
-width: auto;
+width: 25%;
 padding-right: 30px;
 }
 .banner1 {
@@ -46,7 +46,7 @@ padding-right: 30px;
 
 /* E ajuste a imagem dentro dele */
 .banner1 img {
-    width: 100%; /* Ajuste a porcentagem (ex: 60%, 80%, 100%) até ficar no tamanho desejado */
+    width: 0%; /* Ajuste a porcentagem (ex: 60%, 80%, 100%) até ficar no tamanho desejado */
     height: auto;
 }
 .estudante_titulo{
