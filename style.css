@@ -38,15 +38,14 @@ width: 25%;
 padding-right: 30px;
 }
 .banner1 {
-    width: 100%; /* Garante que o container use toda a largura da tela */
+    width: 100%; 
     max-width: auto;
     display: flex;
     justify-content: center;
 }
-
-/* E ajuste a imagem dentro dele */
+ 
 .banner1 img {
-    width: 0%; /* Ajuste a porcentagem (ex: 60%, 80%, 100%) até ficar no tamanho desejado */
+    width: auto;
     height: auto;
 }
 .estudante_titulo{
