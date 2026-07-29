@@ -114,5 +114,7 @@ text-decoration: none;
 
 .video-container {
   text-align: center;
+  width: auto;
+    height: auto;
 }
 
